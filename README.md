@@ -1,7 +1,7 @@
 # myrepo
 Testing various happygitwithr things.
 
-This is a line written from RStudio. This is a line written from Notepad++ on another computer.
+This is a line written from RStudio. This is a line written from Notepad++ on another computer. Hooray, it works!
 
 Line added from GitHub, then modified in RStudio.
 
